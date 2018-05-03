@@ -10,12 +10,8 @@
 test
 test Local
 I'll Be Back!
-<<<<<<< HEAD
-ewfadf
-=======
 I'll Be Back!
 I'll Be Back!
 I'll Be Back!
->>>>>>> refs/remotes/origin/master
 </body>
 </html>
